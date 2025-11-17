@@ -1,0 +1,1 @@
+{"imgsize": 256, "input_name": "input", "output_name": "output", "range": [0.0, 1.0], "out_act": "sigmoid"}
