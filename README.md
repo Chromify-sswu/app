@@ -4,7 +4,7 @@
 Chromify는 색각 이상(CVD) 사용자에게 최적화된 색 보정을 제공하는 온디바이스 모바일 애플리케이션입니다.
 이 앱은 Expo·React Native 기반으로 제작되었으며, 개인에게 맞춰진 색맹 유형(Deutan / Protan / Tritan / Mix ) 에 따라 실시간 색 보정 필터를 적용합니다.
 
-https://github.com/Chromify-sswu/app/blob/main/demo.mp4
+[https://github.com/Chromify-sswu/app/blob/main/demo.mp4](https://youtube.com/shorts/Ufq5uxGSY2E)
 
 ## Get started
 📸 Real-time Camera CVD Correction
