@@ -1,50 +1,22 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Chromify — On-deviceReal-Time Color Vision Deficiency (CVD) Correction App 🕶️
+
+Chromify는 색각 이상(CVD) 사용자에게 최적화된 색 보정을 제공하는 온디바이스 모바일 애플리케이션입니다.
+이 앱은 Expo·React Native 기반으로 제작되었으며, 개인에게 맞춰진 색맹 유형(Deutan / Protan / Tritan / Mix ) 에 따라 실시간 색 보정 필터를 적용합니다.
 
 ## Get started
+📸 Real-time Camera CVD Correction
+카메라를 통해 입력되는 실시간 영상에 색각 이상 보정 필터 적용
 
-1. Install dependencies
+🎨 Multiple CVD Types Supported
 
-   ```bash
-   npm install
-   ```
+Deutan (녹색 계열 이상)
 
-2. Start the app
+Protan (적색 계열 이상)
 
-   ```bash
-   npx expo start
-   ```
+Tritan (청색 계열 이상)
 
-In the output, you'll find options to open the app in a
+Mix (혼합 계열 이상)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
