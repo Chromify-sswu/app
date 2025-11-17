@@ -19,4 +19,14 @@ Tritan (청색 계열 이상)
 Mix (혼합 계열 이상)
 
 
+📚 Tech Stack
 
+React Native / Expo
+
+Expo Router
+
+ONNX Runtime Mobile
+
+TypeScript
+
+CameraView (expo-camera)
