@@ -19,7 +19,7 @@ Tritan (청색 계열 이상)
 Mix (혼합 계열 이상)
 
 
-📚 Tech Stack
+# 📚 Tech Stack
 
 React Native / Expo
 
